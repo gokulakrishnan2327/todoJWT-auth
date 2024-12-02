@@ -1,3 +1,4 @@
+
 Task Management App with JWT Authentication
 This application is a full-stack project built using React.js (frontend) and Node.js with Express.js (backend), featuring JWT-based authentication, CRUD operations for task management, and real-time updates using Socket.io.
 
@@ -66,26 +67,31 @@ Node.js (v14 or later)
 npm or yarn
 MongoDB (if applicable)
 Clone the Repository
-
+bash
+Copy code
 git clone https://github.com/gokulakrishnan2327/todoJWT-auth.git
 cd todoJWT-auth
 Install Dependencies
 Backend
-
+bash
+Copy code
 cd backend
 npm install
 Frontend
-
+bash
+Copy code
 cd frontend
 npm install
 Running the Application
 Start the Backend Server
-
+bash
+Copy code
 cd backend
 npm start
 Default server runs on http://localhost:5000.
 Start the Frontend Server
-
+bash
+Copy code
 cd frontend
 npm start
 Application runs on http://localhost:3000.
